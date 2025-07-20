@@ -1,0 +1,14 @@
+First Name,Last Name,Age,Gender,Email,Phone,Weight (kg),Height (cm),Location,Has Insurance,Insurance Type,Complaint,Symptoms,Symptom Duration
+Kacper,Czarnocki,22,Man,K.czarnocki@gmail.com,124 567 456,75,185,Warszawa/Mokotow/945-87,Yes,State Insurance,eczema,fever,1 aydan uzun
+Angelina,Kubrick,32,Woman,a.kubrick@gmail.com,765987658,62,179,Olsztyn / Mleczna / 10-001,Yes,State Insurance,Nose bleeding,Baş ağrısı,1 hafta
+Brad,Pitt,55,Man,B.pitt@gmail.com,654876765,80,188,Olsztyn / Kortowo / 10-001,No,,Severe Backache,,1-3 gün
+Agata,Bruskowska,27,Woman,A.bruskowska@gmail.com,876 765 678,71,185,Poznan / Łazarz / 61-001,Yes,Private Insurance,acid reflux,Mide bulantısı,1 hafta
+Magdalena ,Bogdanska,23,Woman,M.bogdanska@gmail.com,453 234 565,58,175,Kołobrzeg / Drzewny / 78-100,Yes,State Insurance,burn on arm,,1-3 gün
+Mehmet,Unlu ,23,Man,M.unlu@gmail.com,865 345 321,80,184,Łódź / Stare Bałuty / 90-001,No,,right ear obstruction,,1 hafta
+Martyna ,Synkariewicz,45,Woman,M.synkariewicz@gmail.com,456 764 345,84,175,Warszawa / Natolin / 02-797,Yes,State Insurance,Diabetes,,1 aydan uzun
+David ,Lewandowski,35,Man,D.lewandowski@gmail.com,456 245 643,90,187,Warszawa / Ursus / 02-495,No,,Ear disorder,Baş ağrısı,1 hafta
+Monika,Sobaczynska,37,Woman,M.sobaczynska@gmail.com,756 321 567,63,173,Warszawa / Sadyba / 02-903,Yes,State Insurance,I have been vomitting since one week,Mide bulantısı,1 hafta
+Małgorzata ,Rodzinska,25,Woman,M.rodzinska@gmail.com,434 643 345,71,180,Warszawa / Żoliborz / 01-634,No,,I throw up since this morning.,Mide bulantısı,1-3 gün
+Jakub,Piwko,22,Man,J.piwko@gmail.com,345 765 123,82,191,Warszawa / Wola / 01-134,Yes,State Insurance,My bones and joints are in pain,Kas ağrısı,1 hafta
+Katarzyna ,Kowalski,65,Woman,K.kowalski@gmail.com,345 675 234,55,165,Białystok / Bema / 15-370,Yes,State Insurance,I've rapid hearthbeat and chestpain,Nefes darlığı,1-3 gün
+Tomasz,Kowalski,19,Man,T.kowalski@gmail.com,456 321 334,79,181,Białystok / Skorupy / 15-559,No,,Lung diseases,Nefes darlığı,1 aydan uzun
