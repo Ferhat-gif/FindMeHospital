@@ -1,0 +1,132 @@
+﻿First Name;Last Name;Age;Gender;Email;Phone;Weight (kg);Height (cm);Location;Has Insurance;Insurance Type;Complaint;Symptoms;Symptom Duration
+Kazimerz;Nowak;32;Man;K.nowak@gmail.com;978 334 223;70;180;Warszawa/Kabaty/00-001;No;;Toothache;fever;1-3 days
+Ferhat;Ciyanci;32;Man;gs_124ferhat@hotmail.com;517 437 073;70;180;Warszawa/Służew/02-668;No;;Toothache;fever;1-3 days
+Adam;Wiśniewski;32;Man;A.wiśniewski@gmail.com;431 563 986;70;180;Warszawa/Targówek/03-604;No;;Toothache;fever;1-3 days
+Slywia;Węglarek;30;Woman;S.weglarek@gmail.com;234 456 789;55;170;Warszawa/Mokotow/00-173;No;;Earache;headache;1 week
+Klaudia;Bogdanska;25;Woman;K.bogdanska@gmail.com;567 890 098;60;175;Warszawa/Natolin/202-01;Yes;State Insurance;Ankle sprain;;
+Szymon;Jedlinski;23;Man;S.jedlinski.@gmail.com;234 987 657;70;178;Wrocław/Krzyki/50-001;Yes;State Insurance;Measles;fever;
+Ivan;Ihnatsenkau;23;Man;I.Ihnatsenkau@gmail.com;456 321 679;70;178;Gdańsk/Wrzeszcz/80-001;Yes;Private Insurance;Persistent nosebleeds;nausea;
+Nazarii;Pinchuk;22;Man;N.pinczuk@gmial.com;456 321 087;80;175;Warszawa/Ursynow/255-01;Yes;Travel Insurance;I need tonsil surgery;fever, cough;1 week
+Danylo;Berezanski;21;Man;D.berezanski@gmail.com;098 564 123;81;190;Warszawa/Raszyn/001-002;Yes;;Severe abdominal pain;shortness of breath;1-3 days
+Pawel;Pluskota;30;Man;P.pluskota@gmail.com;674 345 875;80;185;Pultusk/06-100;Yes ;Private Insurance;earache;headache;1 week
+Kinga;Hofman;25;Woman;K.hofman@gmail.com;311 564 334;55;165;Gdansk/Oliwa/025-014;Yes;;ankle sprain;muscle pain;1-3 days
+Kacper;Czarnocki;22;Man;K.czarnocki@gmail.com;124 567 456;75;185;Warszawa/Mokotow/945-87;Yes;State Insurance;eczema;fever;more than 1 month
+Angelina;Kubrick;32;Woman;a.kubrick@gmail.com;765987658;62;179;Olsztyn / Mleczna / 10-001;Yes;State Insurance;Nose bleeding;headache;1 week
+Brad;Pitt;55;Man;B.pitt@gmail.com;654876765;80;188;Olsztyn / Kortowo / 10-001;No;;Severe Backache;;1-3 days
+Agata;Bruskowska;27;Woman;A.bruskowska@gmail.com;876 765 678;71;185;Poznan / Łazarz / 61-001;Yes;Private Insurance;acid reflux;nausea;1 week
+Magdalena ;Bogdanska;23;Woman;M.bogdanska@gmail.com;453 234 565;58;175;Kołobrzeg / Drzewny / 78-100;Yes;State Insurance;burn on arm;;1-3 days
+Mehmet;Unlu ;23;Man;M.unlu@gmail.com;865 345 321;80;184;Łódź / Stare Bałuty / 90-001;No;;right ear obstruction;;1 week
+Martyna ;Synkariewicz;45;Woman;M.synkariewicz@gmail.com;456 764 345;84;175;Warszawa / Natolin / 02-797;Yes;State Insurance;Diabetes;;more than 1 month
+David ;Lewandowski;35;Man;D.lewandowski@gmail.com;456 245 643;90;187;Warszawa / Ursus / 02-495;No;;Ear disorder;headache;1 week
+Monika;Sobaczynska;37;Woman;M.sobaczynska@gmail.com;756 321 567;63;173;Warszawa / Sadyba / 02-903;Yes;State Insurance;I have been vomitting since one week;nausea;1 week
+Małgorzata ;Rodzinska;25;Woman;M.rodzinska@gmail.com;434 643 345;71;180;Warszawa / Żoliborz / 01-634;No;;I throw up since this morning.;nausea;1-3 days
+Jakub;Piwko;22;Man;J.piwko@gmail.com;345 765 123;82;191;Warszawa / Wola / 01-134;Yes;State Insurance;My bones and joints are in pain;muscle pain;1 week
+Katarzyna ;Kowalski;65;Woman;K.kowalski@gmail.com;345 675 234;55;165;Białystok / Bema / 15-370;Yes;State Insurance;I've rapid hearthbeat and chestpain;shortness of breath;1-3 days
+Tomasz;Kowalski;19;Man;T.kowalski@gmail.com;456 321 334;79;181;Białystok / Skorupy / 15-559;No;;Lung diseases;shortness of breath;more than 1 month
+Filip;Kaczmarek;22;Man;F.kaczmarek@gmail.com;568 432 764;65;177;Warszawa / Raszyn / 05-090;Yes;Travel Insurance;I've fatigue, rapid heartbeat and chest pain;shortness of breath;1-3 days
+Jan;Kowalski;58;Man;J.kowalski@gmail.com;475 938 574;85;175;Warszawa/Piastów/05-800;Yes;State Insurance;Chest pain and shortness of breath;shortness of breath;1-3 days
+Anna;Nowak;65;Woman;A.nowak@gmail.com ;321 674 334;70;162;Gdansk/Cienista/80-980;Yes;State Insurance;Leg swelling and fatigue;shortness of breath;1 week
+Piotr;Wiśniewski;45;Man;P.wisniewski@gmail.com;987 565 434;78;180;Kraków/Kapelanka/30-347;No;;Chronic cough and weight loss,night sweats;fever, cough;more than 1 month
+Maria;Wójcik;35;Woman;M.wojcik@gmail.com;123 564 234;35;168;Lódź/Stare Bałuty/90-001;Yes;Private Insurance;wheezing;shortness of breath, cough;1 week
+Tomasz;Kaczmarek;42;Man;T.kaczmarek@gmail.com;564 223 544;82;177;Wrocław/Popowice/53-622;Yes;Private Insurance;stomach pain, vomiting, hearhburn;nausea;1-3 days
+Katarzyna ;Zielinska;28;Woman;K.zielinska@gmail.com ;432 234 222;58;165;Poznan/Matejki/60-076;Yes;State Insurance;Diarrhea, bloating and abdominal pain;;1 week
+Michał;Szymanski;32;Man;M.szymanski@gmail.com;432 344 332;75;183;Białystok/Bema/15-078;Yes;State Insurance;Depression and lack of appetite, insomnia, fatigue;;more than 1 month
+Agnieszka ;Dąbrowska;26;Man;A.dabrowska@gmail.com;456 554 334 ;52;170;Gdańsk/Długa/80-827;Yes;Private Insurance;Panic attacks, anxiety,rapid heartbeat and dizziness;;more than 1 month
+Stanisław;Lewandowski;55;Man;S.lewandowski@gmail.com;121 344 667;90;178;Warszawa/Marszałkowska/00-514 ;Yes;State Insurance;Back pain, morning stiffness, limited movement;muscle pain;1 week
+Ewa;Jankowska;67;Woman;E.jankowska@gmail.com;434 655 788;72;160;Olsztyn/Kościuszki/10-555  ;Yes;State Insurance;Morning stiffness, joint pain, swelling;;more than 1 month
+Robert ;Mazur;48;Man;R.mazur@gmail.com;345 778 555 ;95;175; Kraków/Floriańska/31-019  ;No;;frequent urination, excessive thirst, blurred vision and, fatigue;;more than 1 month
+Joanna;Piatrowska;39;Woman;J.piatrowska@gmail.com;445 432 445 ;68;166;Łódź/Piotrkowska/90-434  ;Yes;State Insurance;weight gain, fatigue, cold intolarance, hair loss;;more than 1 month
+Marek;Król;61;Man;M.król@gmail.com;232 556 343;80;172;Wrocław/Świdnicka/50-068  ;No;;tremors, balance problems, coordination problems;;more than 1 month
+Barbara;Adamczyk;44;Woman;B.adamczyk@gmail.com;234 546 232 ;63;163;Gdańsk/Grunwaldzka/80-266 ;Yes;State Insurance;severe headache, dizziness, vision problems;headache;1 week
+Pawel;Wóżniak;29;Man;P.wóżniak@gmail.com;234 567 876;76;181;Warszawa/Puławska/02-620  ;Yes;State Insurance;severe injury,car accident, back pain, confusion;;1-3 days
+Magdalena ;Sikora;35;Woman;M.sikora@gmail.com;245 567 567;61;169;Kraków/Starowiślna/31-038  ;Yes;State Insurance;broken bone, severe pain, swelling;;1-3 days
+Grzegorz;Bąk;37;Man;G.bąk@gmail.com;786 554 566;83;179;Białystok/Lipowa/15-424  ;Yes;State Insurance;fatigue;shortness of breath, cough, fever;1-3 days
+Dorata;Zawadzka;52;Woman;D.zawadzka@gmail.com;234 667 445;67;163;Olsztyn/Pstrowskiego/10-602  ;No;;night sweat, weight loss;cough, fever;more than 1 month
+Krzystof;Witowski;41;Man;K.witowski@gmail.com;234 677 677;79;176;Poznań/Głogowska/60-244  ;Yes;Private Insurance;itchy skin, skin rash, red skin;;1 week
+Monika;Grabowska;24;Woman;M.grabowska@gmail.com;235 778 456;55;167;Łódź/Narutowicza/90-135  ;Yes;State Insurance;pimples, blackheads, skin bumps;;more than 1 month
+Andrzej;Kaźmierczak;59;Man;A.kaźmierczak@gmail.com;877 543 212 ;87;174;Wrocław/Legnicka/54-203  ;Yes;Private Insurance;blurred vision, eye pain, vision loss;;more than 1 month
+Teresa;Kubiak;56;Woman;T.kubiak@gmail.com;344 566 332;74;161;Gdańsk/Chmielna/80-748  ;Yes;State Insurance;painful urination, blood in urine, kidney pain;;1 week
+Beata;Szczepanska;31;Woman;B.szczepanska@gmail.com;334 667 433;62;168;Warszawa/Jana Pawła II/01-001  ;No;;Irregular periods, pelvic pain, heavy bleeding;;more than 1 month
+Jacek;Borkowski;33;Man;J.borkowski@gmail.com;455 678 776;71;182;Kraków/Kalwaryjska/30-504  ;Yes;State Insurance;sneezing, itchy eyes, runny nose, blocked nose;;1 week
+Henryk;Górski;47;Man;H.górski@gmail.com;554 345 566;110;173;Olsztyn/Żołnierska/10-561  ;Yes;State Insurance;overweight, high blood pressuer, fatigue;;more than 1 month
+John;Smith;60;Man;J.smith@gmail.com;512 439 827 ;90;180;Warszawa/Nowowiejska/00-665 ;No;;chest pain, fatigue;shortness of breath;1-3 days
+Maria;Garcia;54;Woman;M.garcia@gmail.com;693 204 118  ;68;165;Kraków/Mogilska/31-546 ;No;;fatigue, leg swelling;;1-3 days
+Ahmed;Hassan;47;Man;A.hassan@gmail.com;785 660 943  ;82;178;Gdańsk/Jaglana/80-749  ;Yes;Travel Insurance;weight loss, persistent cough;cough;1 week
+Sophia;Dubous;38;Woman;S.dubous@gmail.com;602 318 507  ;60;168;Poznań/Ratajczaka/61-815  ;Yes;Travel Insurance;wheezing;cough;1 week
+Luca;Rossi;50;Man;L.rossi@gmail.com;792 411 238  ;85;175;Wrocław/Piłsudskiego/50-033  ;No;;Stomach pain;nausea;1-3 days
+Olga;Ivanova;29;Woman;O.ıvanova@gmail.com;728 913 400  ;57;162;Łódź/Zachodnia/90-062  ;Yes;Travel Insurance;diarrhea and abdominal pain;;more than 1 month
+Ali;Yilmaz;36;Man;A.yilmaz@gmail.com;883 225 914  ;80;176;Szczecin/Aleja Wyzwolenia/70-554  ;No;;depression and insomnia;;1-3 days
+Emily;Johnson;27;Woman;E.johnson@gmail.com;534 002 617  ;59;170;Lublin/Narutowicza/20-016  ;Yes;Travel Insurance;panic attacks and anxiety;;more than 1 month
+Marek;Nowicki;52;Man;M.nowicki@gmail.com;661 309 744  ;88;179;Katowice/Mickiewicza/40-085  ;Yes;State Insurance;back pain;muscle pain;1 week
+Julia;Muller;63;Woman;J.muller@gmail.com;690 574 328  ;70;164;Białystok/Bema/15-078  ;Yes;Travel Insurance;joint pain and swelling;;more than 1 molth
+Carlos;Santos;44;Man;C.santos@gmail.com;792 314 222  ;92;182;Olsztyn/Warszawska/10-702  ;No;;frequent urination and swelling;;1 week
+Anna;Petrova;41;Woman;A.petrova@gmail.com;501 607 983  ;66;167;Rzeszów/Asnyka/35-001  ;Yes;Private Insurance;weight gain and fatigue;;more than 1 month
+David ;Brown;58;Man;D.brown@gmail.com;668 194 321  ;83;180;Bydgoszcz/Focha/85-070  ;No;;tremors and balance problems;;1-3 days
+Isabella;Martinez;39;Woman;I.martinez@gmail.com;731 876 209  ;61;163;Toruń/Mostowa/87-100  ;No;;severe headache and dizziness;headache;1 week
+Tomasz;Lewicki;38;Man;T.lewicki@gmail.com;576 912 430  ;77;174;Zielona Góra/Sikorskiego/65-001  ;Yes;Private Insurance;severe injury and back pain;;more than 1 month
+Sven;Andersson;46;Man;S.andersson@gmail.com;605 740 382  ;85;181;Opole/Kościuszki/45-063  ;No;;broken bone and swelling;;1 week
+Fatima;Farsi;49;Woman;F.farsi@gmail.com;795 183 561  ;69;160;Gdynia/Świętojańska/81-372  ;No;;high fever and cough;fever, cough;1-3 days
+Lucas;Silva;35;Man;L.silva@gmail.com;724 907 155  ;81;177;Kielce/Sienkiewicza/25-007  ;No;;cough and night sweats;cough;1 week
+Elena;Popescu;40;Woman;E.popescu@gmail.com;601 340 689  ;64;165;Radom/Żeromskiego/26-600  ;No;;itchy skin and rash;;1-3 days
+George;Williams;30;Man;G.williams@gmail.com;733 500 014  ;75;172;Gliwice/Zwycięstwa/44-100  ;Yes;Private Insurance;pimples and skin bumps;;more than 1 month
+Yuki;Tanaka;28;Woman;Y.tanaka@gmail.com;887 642 230  ;53;158;Częstochowa/NMP Aleja/42-217  ;Yes;Private Insurance;blurred vision and eye pain;;1 week
+Mateusz;Wójcik;55;Man;M.wójcik@gmail.com;537 114 379  ;86;178;Elbląg/1 Maja/82-300  ;Yes;Private Insurance;painful urination and blood in urine;;more than 1 month
+Sara;Eriksen;34;Woman;S.eriksen@gmail.com;692 508 211  ;60;166;Koszalin/Zwycięstwa/75-900  ;No;;irregular periods and pelvic pain;;1-3 days
+Muhammed;Cihan;42;Man;M.cihan@gmail.com;781 944 370  ;90;180;Tarnów/Krakowska/33-100  ;No;;sneezing and itchy eyes;;1-3 days
+Natalia;Kowalczyk;39;Woman;N.kowalczyk@gmail.com;663 820 145  ;72;170;Legnica/Wrocławska/59-220  ;Yes;State Insurance;overweight and hight blood pressure;;more than 1 month
+Victor;Nguyen;37;Man;V.nguyen@gmail.com;518 009 266  ;78;173;Płock/Tumskiej/09-400  ;No;;Chest pain;shortness of breath;1-3 days
+Alicja;Szymanska;48;Woman;A.szymanska@gmail.com;780 244 339  ;65;168;Siedlce/Sienkiewicza/08-110  ;Yes;State Insurance;fatigue and leg swelling;;more than 1 month
+Omar;Mansu;51;Man;O.mansu@gmail.com;603 755 198  ;88;182;Kalisz/Główny Rynek/62-800  ;Yes;Private Insurance;Persistent cough and weigh loss;cough;1 week
+Samantha;Lee;32;Woman;S.lee@gmail.com;727 362 808  ;58;162;Piła/Sikorskiego/64-920  ;No;;wheezing;cough;1-3 days
+Mikołaj;Czarnecki;62;Man;M.Czarnecki@gmail.com;693 284 175  ;81;176;Warszawa/Grzybowska/00-844 ;Yes;State Insurance;Skin lesion, unusal moles, itchy skin;;more than 1 month
+Elźbiata;Majewska;70;Woman;E.Majewska@gmail.com;725 903 618  ;68;162;Kraków/Karmelicka/31-128  ;Yes;State Insurance;I need bypass surgery;;more than 1 month
+Andreas;Schmidt;59;Man;A.Schmidt@gmail.com;507 412 986  ;90;180;Gdańsk/Podwale Grodzkie/80-895  ;No;;I've aortic anourysm;;1 week
+Svetlana;Kuznetsova;48;Woman;S.Kuznetsova@gmail.com;660 745 320  ;74;168;Wrocław/Oławska/50-123  ;No;;I've soft tissue sarcoma;;more than 1 month
+Olivier;Morea;53;Man;O.Morea@gmail.com;791 384 229  ;85;178;Poznań/Św. Marcin/61-806  ;Yes;Travel Insurance;I've paraneoplastic syndrome;;more than 1 month
+Agnieszka ;Lis;44;Woman;A.Lis@gmail.com;884 150 337  ;60;165;Łódź/Wólczańska/90-531  ;Yes;Travel Insurance;weight gain, purple striae, hypertension;;more than 1 month
+Ravi;Patel;51;Man;R.Patel@gmail.com;738 602 914  ;77;172;Warszawa/Solec/00-403  ;No;;I've parathroid tumor;;more than 1 month
+Anna;Svensson;36;Woman;A.Svensson@gmail.com;531 097 462  ;62;170;Kraków/Bonarka/30-415  ;Yes;Private Insurance;I need liver transplant;;more than 1 month
+Piotr;Baran;67;Man;P.Baran@gmail.com;699 201 883  ;79;174;Gdańsk/3 Maja/80-802  ;No;;I need kidney transplant;;more than 1 month
+Fatima;Amrani;42;Woman;F.Amrani@gmail.com;602 498 731  ;70;168;Wrocław/Dworcowa/50-456  ;Yes;Travel Insurance;Pancreas transplant;nausea;more than 1 month
+Mateusz;Duda;39;Man;M.Duda@gmail.com;722 349 806  ;82;180;Poznań/Półwiejska/61-888  ;Yes;Travel Insurance;HIV;;more than 1 month
+Julia;Nowak;29;Woman;J.Nowak@gmail.com;785 163 004  ;58;184;Łódź/Rewolucji 1905 r./90-209  ;Yes;State Insurance;AIDS;;more than 1 month
+Carlos;Gomez;56;Man;C.Gomez@gmail.com;511 308 297  ;88;174;Warszawa/Wilcza/00-679  ;No;;Hepatit B;;more than 1 month
+Marta;Kwiatkowska;47;Woman;M.Kwiatkowska@gmail.com;664 728 450  ;65;167;Kraków/Wielopole/31-072  ;No;;Snake bite;fever, muscle pain;1-3 days
+Yusuf;Demir;40;Man;Y.Demir@gmail.com;733 998 512  ;80;178;Gdańsk/Toruńska/80-822  ;Yes;Travel Insurance;Parasitic infection;;1 week
+Natalia;Wasilewska;34;Woman;N.Wasilewska@gmail.com;576 240 199  ;60;165;Wrocław/Komandorska/53-343  ;Yes;State Insurance;Collapsed lung;;1 week
+Liam;Connor;45;Man;L.Connor@gmail.com;695 781 640  ;85;180;Poznań/Garbary/61-758  ;Yes;Travel Insurance;Dialysis access surgery;;more than 1 month
+Katarzyna ;Pawlak;61;Woman;K.Pawlak@gmail.com;793 522 311  ;72;168;Łódź/Łagiewnicka/91-463  ;No;;Bypass surgery;;1 week
+Zhang;Wei;50;Man;Z.Wei@gmail.com;606 318 724  ;78;175;Warszawa/Krucza/00-548  ;Yes;State Insurance;Aortic aneurysm;; more than 1 month
+Ewa;Sikorska;37;Woman;E.Sikorska@gmail.com;792 864 155  ;63;160;Kraków/Lea/30-058  ;Yes;Travel Insurance;I've soft tissue sarcoma;muscle pain; more than 1 month
+Muhammed;Salah;52;Man;M.Salah@gmail.com;503 190 038  ;82;179;Gdańsk/Łąkowa/80-769  ;Yes;Travel Insurance;I've paraneoplastic syndrome;;more than 1 month
+Helena;Nowicka;58;Woman;H.Nowicka@gmail.com;781 662 407  ;70;166;Wrocław/Hubska/50-502  ;No;;Cushing's syndrome;;more than 1 month
+Ivan;Petrov;49;Man;I.Petrov@gmail.com;725 089 914  ;86;182;Poznań/Hetmańska/60-219  ;No;;Parathyroid tumor;;more than 1 month
+Magdalena ;Rutkowska;43;Woman;M.Rutkowska@gmail.com;666 743 022  ;64;183;Łódź/Przybyszewskiego/92-110  ;No;;Liver transplant;;more than 1 month
+Stefan;Kowal;65;Man;S.Kowal@gmail.com;739 803 188  ;83;178;Warszawa/Chełmska/00-724  ;Yes;State Insurance;Kidney transplant;;more than 1 month
+Aisha;Abdi;38;Woman;A.Abdi@gmail.com;531 006 547  ;68;165;Kraków/Nowosądecka/30-683  ;No;;Pancreas transplant;;more than 1 month
+Marek;Szymanski;55;Man;M.Szymanski@gmail.com;887 450 913  ;80;176;Gdańsk/Kartuska/80-122  ;No;;HIV;;more than 1 month
+Patrycja;Wojcik;31;Woman;P.Wojcik@gmail.com;602 773 501  ;59;161;Wrocław/Traugutta/50-418  ;No;;AIDS;;more than 1 month
+Lucas;Fernandes;60;Man;L.Fernandes@gmail.com;798 228 604  ;90;180;Poznań/Dąbrowskiego/60-529  ;Yes;Travel Insurance;Hepatit C;;1 week
+Zofia;Lewandowska;50;Woman;Z.Lewandowska@gmail.com;712 490 375  ;67;164;Łódź/Piwnika-Ponurego/94-234  ;Yes;State Insurance;Malaria;fever;more than 1 month
+Ali;Rahman;43;Man;A.Rahman@gmail.com;530 641 820  ;79;177;Szczecin/Aleja Piastów/70-310  ;Yes;Travel Insurance;Parasitic Infection;;1 week
+Marianna;Kowalik;28;Woman;M.Kowalik@gmail.com;692 431 087  ;28;171;Warszawa/Andersa/00-159  ;Yes;Travel Insurance;pregnancy;fever, muscle pain;more than 1 month
+Isabella;Rodriguez;32;Woman;I.Rodriguez@gmail.com;728 509 632  ;32;178;Kraków/Grochowa/30-731  ;No;;childbirth, severe pain, bleeding;muscle pain;1-3 days
+Krzysztof;Adamczyk;45;Man;K.Adamczyk@gmail.com;601 382 745  ;45;187;Gdańsk/Dębinki/80-211  ;Yes;State Insurance;Severe burns ;fever;1-3 days
+Emma;Taylor;22;Woman;E.Taylor@gmail.com;783 224 510  ;22;167;Wrocław/Szybka/50-421  ;No;;drug overdose;;1-3 days
+Jakub;Nowicki;38;Man;J.Nowicki@gmail.com;530 948 316  ;38;182;Poznań/Szamarzewskiego/60-568  ;Yes;State Insurance;Jaw fracture;;1-3 days
+Chen;Li;19;Woman;C.Li@gmail.com;660 107 825  ;19;171;Łódź/Tatrzańska/93-279  ;Yes;Private Insurance;Dental abscess;headache;1-3 days
+Agata;Zawadzka;54;Woman;A.Zawadzka@gmail.com;791 640 238  ;54;170;Szczecin/Wyszyńskiego/70-201  ;No;;Gout;;more than 1 month
+Pierre;Martin;48;Man;P.Martin@gmail.com;886 024 173  ;48;168;Bydgoszcz/Jagiellońska/85-097  ;Yes;Private Insurance;Varicose veins;;more than 1 month
+Beata;Kaminska;41;Woman;B.Kaminska@gmail.com;735 800 419  ;41;178;Lublin/Głęboka/20-612  ;Yes;Private Insurance;Endometriosis;;more than 1 month
+Ahmed;Abas;27;Man;A.Abas@gmail.com;577 914 306  ;27;180;Białystok/Skłodowskiej-Curie/15-097  ;Yes;State Insurance;Appendicitis;;more than 1 month
+Karolina;Lis;35;Woman;K.Lis@gmail.com;603 772 194  ;35;168;Toruń/Polna/87-100  ;No;;Hair loss;;more than 1 month
+Dmitri;Volkov;52;Man;D.Volkov@gmail.com;781 036 570  ;52;185;Rzeszów/Lisa-Kuli/35-025  ;Yes;Private Insurance;Prostote enlargement;;more than 1 month
+Sofia;Andersson;24;Woman;S.Andersson@gmail.com;667 155 209  ;24;175;Zielona Góra/Podgórna/65-001  ;Yes;State Insurance;Gallstones;;more than 1 month
+Maciej;Wiśniewski;43;Man;M.Wiśniewski@gmail.com;724 688 093  ;43;179;Opole/Oleska/45-222  ;Yes;State Insurance;Celiac;;more than 1 month
+Lucia;Fernandez;37;Woman;L.Fernandez@gmail.com;504 621 710  ;37;171;Kielce/Tarnowska/25-394  ;Yes;Private Insurance;Inflommatory bowel disease;;more than 1 month
+Pawel;Zielinski;59;Man;P.Zielinski@gmail.com;795 349 428  ;59;181;Radom/Chełmońskiego/26-600  ;No;;Osteoporosis;;more than 1 month
+Yuki;Yamoto;31;Woman;Y.Yamoto@gmail.com;534 217 681  ;31;174;Gliwice/Kilińskiego/44-100  ;No;;Sleep apnea;;more than 1 month
+Hassan;Rashid;46;Man;H.Rashid@gmail.com;693 508 044  ;46;179;Olsztyn/Jagiellońska/10-062  ;Yes;Private Insurance;Peripheral artery disease;;more than 1 month
+Alesandra;Gorska;26;Woman;A.Gorska@gmail.com;708 123 678  ;26;175;Elbląg/Grota-Roweckiego/82-300  ;Yes;State Insurance;I need infertilty treatment;;more than 1 month
+Marco;Bianchi;33;Man;M.Bianchi@gmail.com;511 962 305 ;33;183;Płock/Bielska/09-400;Yes;State Insurance;Testicular pain;;1 week
+;;;;;;;        ;;;;;;
