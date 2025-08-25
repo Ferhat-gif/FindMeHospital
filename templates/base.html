@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>FindMeHospital</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <style>
+        body {
+            margin: 0;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #f9fafb;
+            color: #333;
+        }
+
+        header {
+            background-color: #0d6efd;
+            color: white;
+            padding: 20px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+
+        header h1 {
+            margin: 0;
+            font-size: 28px;
+        }
+
+        nav {
+            margin-top: 10px;
+        }
+
+        nav a {
+            color: white;
+            text-decoration: none;
+            margin-right: 20px;
+            font-weight: bold;
+            transition: opacity 0.3s;
+        }
+
+        nav a:hover {
+            opacity: 0.8;
+        }
+
+        main {
+            padding: 30px;
+            max-width: 1000px;
+            margin: auto;
+        }
+
+        a.button {
+            background-color: #0d6efd;
+            color: white;
+            padding: 10px 20px;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+        a.button:hover {
+            background-color: #0b5ed7;
+        }
+        .hospital-bg {
+            position: relative;
+        }
+        .hospital-bg::before {
+            content: "";
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100vw;
+            height: 100vh;
+            background: url('{{ url_for('static', filename='hospital.jpeg') }}') center center/cover no-repeat;
+            opacity: 0.18;
+            z-index: 0;
+            pointer-events: none;
+            transition: background-image 0.7s, opacity 0.7s;
+        }
+        .hospital-bg > * {
+            position: relative;
+            z-index: 1;
+        }
+    </style>
+</head>
+<body{% if request.endpoint in ['home', 'about'] %} class="hospital-bg"{% endif %}>
+    <header id="fade-header" style="opacity:0; transition: opacity 1.25s;">
+        <h1>FindMeHospital</h1>
+        <nav id="fade-nav" style="opacity:0; transition: opacity 1.25s;">
+            <a href="{{ url_for('home') }}">Main Page</a> |
+            <a href="{{ url_for('about') }}">About</a> |
+            <a href="{{ url_for('register') }}">Fill a Form</a>
+        </nav>
+    </header>
+    <main>
+        <div id="fade-content" style="opacity:0; transition: opacity 1.25s;">
+            {% block content %}{% endblock %}
+        </div>
+    </main>
+    <script>
+        window.addEventListener('DOMContentLoaded', function() {
+            setTimeout(function() {
+                var fade = document.getElementById('fade-content');
+                var header = document.getElementById('fade-header');
+                var nav = document.getElementById('fade-nav');
+                if (fade) fade.style.opacity = 1;
+                if (header) header.style.opacity = 1;
+                if (nav) nav.style.opacity = 1;
+            }, 1250);
+
+            // Only run background image cycle on home/about
+            var body = document.body;
+            if (body.classList.contains('hospital-bg')) {
+                var images = [
+                    "{{ url_for('static', filename='hospital.jpg') }}",
+                    "{{ url_for('static', filename='hospital2.jpg') }}",
+                    "{{ url_for('static', filename='hospital3.jpg') }}",
+                    "{{ url_for('static', filename='hospital4.jpg') }}"
+                ];
+                var idx = 0;
+                var before = document.createElement('style');
+                document.head.appendChild(before);
+                function setBg(i) {
+                    document.querySelector('.hospital-bg').style.setProperty('--hospital-bg', `url('${images[i]}')`);
+                    var beforeEl = document.querySelector('.hospital-bg::before');
+                }
+                // Use direct DOM manipulation for ::before
+                var bgEl = document.querySelector('.hospital-bg');
+                function updateBg() {
+                    var beforeEl = document.querySelector('.hospital-bg');
+                    if (beforeEl) {
+                        beforeEl.style.setProperty('--hospital-bg', `url('${images[idx]}')`);
+                        beforeEl.style.setProperty('--hospital-bg-opacity', 0.18);
+                        beforeEl.classList.add('cycle');
+                        // Actually update the ::before background
+                        beforeEl.setAttribute('style', (beforeEl.getAttribute('style')||'') + `;--hospital-bg:url('${images[idx]}');`);
+                        var styleSheet = Array.from(document.styleSheets).find(s => s.ownerNode && s.ownerNode.textContent.includes('.hospital-bg::before'));
+                        if (styleSheet) {
+                            var rules = styleSheet.cssRules || styleSheet.rules;
+                            for (var r = 0; r < rules.length; r++) {
+                                if (rules[r].selectorText === '.hospital-bg::before') {
+                                    rules[r].style.backgroundImage = `url('${images[idx]}')`;
+                                }
+                            }
+                        }
+                    }
+                }
+                updateBg();
+                setInterval(function() {
+                    idx = (idx + 1) % images.length;
+                    updateBg();
+                }, 3000);
+            }
+        });
+    </script>
+</body>
+</html>
